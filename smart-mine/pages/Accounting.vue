@@ -18,6 +18,7 @@
     </h2> <div role="alert" class="v-alert my-5 v-sheet theme--dark info"><div class="v-alert__wrapper"><i aria-hidden="true" class="v-icon notranslate v-alert__icon mdi mdi-information theme--dark"></i><div class="v-alert__content">
       You don't have any transactions Info!
     </div></div></div></section></div></div></div></main>
+    //
 </template>
 
 <script>
