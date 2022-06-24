@@ -1,0 +1,45 @@
+{
+  "kind": "collectionType",
+  "collectionName": "product0s",
+  "info": {
+    "singularName": "product0",
+    "pluralName": "product0s",
+    "displayName": "product0"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "Price": {
+      "type": "string"
+    },
+    "PackageCMPPrice": {
+      "type": "string"
+    },
+    "Fee": {
+      "type": "string"
+    },
+    "Summary": {
+      "type": "string"
+    },
+    "ProfitLimit": {
+      "type": "string"
+    },
+    "DailyProfitPercentage": {
+      "type": "string"
+    },
+    "WalletAmount": {
+      "type": "decimal"
+    },
+    "VoucherWalletAmount": {
+      "type": "decimal"
+    },
+    "CMPWalletAmount": {
+      "type": "decimal"
+    }
+  }
+}

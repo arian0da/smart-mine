@@ -30,6 +30,12 @@
       "type": "richtext",
       "minLength": 10,
       "maxLength": 20000
+    },
+    "user": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "plugin::custom-api.custom-api",
+      "inversedBy": "profile"
     }
   }
 }
